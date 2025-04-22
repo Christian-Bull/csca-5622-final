@@ -1,0 +1,10 @@
+timestamp - timestamp
+cnt - number of riders
+t1 - temperature
+t2 - temperature_feels
+hum - humidity %
+wind - km/h
+weather_code - code
+is_holiday - boolean
+is_weekend - boolean
+season - season_code
