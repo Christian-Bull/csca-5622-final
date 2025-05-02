@@ -19,3 +19,17 @@ Step 3 - Exploratory Data Analysis (EDA) — Inspect, Visualize and Clean the Da
 Step 4 - Perform Analysis Using Supervised Machine Learning Models of your Choice, Present Discussion and Conclusions (65 points)
 
 Step 5 - Produce Deliverables: High-Quality, Organized Jupyter Notebook Report, Video presentation, and GitHub Repository (35 points)
+
+## Repo Organization
+
+### Data
+
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
+
+Contains the dataset(s) used for this project. The original raw dataset is `london_merged_hour.csv`
+
+`london_merged_day.csv` is the same data consolidated by day instead of hour.
+
+### final.ipynb
+
+Is a Jupyter notebook containing all code used to clean and analyze the data. It's organized in the format outlined above.
